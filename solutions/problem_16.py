@@ -4,7 +4,11 @@
 
 # what is the sum of the digits of number 2^1000
 
+from functools import reduce
 
+def list_reformat(num_list) -> list[int]:
+    return [int(num) for num in num_list]
 
 if __name__ == '__main__':
-    pass
+    num_list = list(str(2 ** 1000))
+    print(reduce(lambda x, y: x + y, list_reformat(num_list)))
