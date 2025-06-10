@@ -3,7 +3,7 @@
 ## These are the solutions to my project Euler problems!
 ---
 
-I used python for a majority of the problems (with some C/C++ to mix things up).
+I used python for a majority of the problems (with some C/C++ and ruby to mix things up).
 
 ## personal rules!
 ---
