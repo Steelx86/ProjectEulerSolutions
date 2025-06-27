@@ -3,11 +3,13 @@
 ## These are the solutions to my project Euler problems!
 ---
 
-I used python for a majority of the problems (with some C/C++ and ruby to mix things up).
+I use Ocaml and Python to solve the problems ( with some others on occasion )
+
+Sorry If I skipped some of the problems. Some of the ealier ones can just be solved with a list comprehension in python
 
 ## personal rules!
 ---
 
-- No outside solutions or AI solutions
-- Only the standard libraries can be used
+- I have to use just standard vim
+- No external answers (unless the originals are lost)
 - all answers must be given in under a minute
